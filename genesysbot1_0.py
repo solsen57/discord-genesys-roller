@@ -268,4 +268,4 @@ async def info(ctx):
     await ctx.send(info_txt)
 
 
-client.run('NzMzNTQzMjQzNDIxMTg4MTY3.XxEreA.PW4YRXgPl405FZKwMdAhzdltbog')
+client.run('Bot Token Here')
